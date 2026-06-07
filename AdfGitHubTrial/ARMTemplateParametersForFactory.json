@@ -4,6 +4,9 @@
 	"parameters": {
 		"factoryName": {
 			"value": "AdfGitHubTrial"
+		},
+		"GithubTrialLs_connectionString": {
+			"value": ""
 		}
 	}
 }
