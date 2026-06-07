@@ -1,0 +1,15 @@
+{
+	"name": "AdfGitHubTrial",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dabb8d97-84cc-4e10-83aa-5f2a34fe2318",
+		"tenantId": "1113be34-aed1-4d00-ab4b-cdd02510be91"
+	}
+}
